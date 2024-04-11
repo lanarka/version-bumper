@@ -1,8 +1,7 @@
 """
-	Simple Version Bump tool
+	Simple Version Bumping tool
 
 	Version 0.0.0.0
-			| | | |
 	  Major_| | | |
 	  Minor___| | |
 	  Micro_____| |
